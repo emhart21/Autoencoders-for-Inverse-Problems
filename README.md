@@ -1,2 +1,2 @@
 # Paired Autoencoding Networks
-Experiments with Paired Autoencoder Networks (PANs) for the purpose of order reduction in solving/regularizing ill-posed inverse problems
+Experiments with combined autoencoder networks for the purpose of order reduction in solving/regularizing ill-posed inverse problems
